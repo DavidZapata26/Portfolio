@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const lines = [
-  "I'm a Computer Science student at the University of Florida who loves building software products from the ground up, from designing backend systems and APIs to crafting frontends that feel fast and intuitive to use. Lately my focus has been on AI integration, specifically learning how to take systems that already work and make them smarter. That means getting into everything from retrieval-augmented generation and agentic workflows to security, testing, and real-world deployment. I'm especially drawn to the challenge of making AI feel like a natural part of an application rather than something tacked on at the end. Outside of coding you'll find me at the gym, watching or playing soccer, or thinking through the next startup idea."
+  " I'm a Computer Science graduate from the University of Florida who enjoys building software from the ground up, from scalable backend systems and APIs to fast, intuitive user experiences. My recent work has focused on integrating AI and automation into real-world applications to streamline business processes.Currently, I build internal dashboards, automations, and AI-powered tools for a commercial trucking company. I also won first place at the Microsoft Innovation Challenge 2026, where my team developed an AI solution to support neurodiverse users."
 ];
 
 const containerVariants = {
